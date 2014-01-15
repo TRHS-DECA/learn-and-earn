@@ -1,4 +1,3 @@
-learn-and-earn
-==============
+# Learn and Earn - Chapter Project Presentation - ThunderRidge DECA
 
-The presentation for Becca and Krish's presentation for the DECA event, Learn N' Earn.
+This is the official presentation for ThunderRidge's SBE, The Ridge's submission for the DECA event Learn and Earn, presented by Rebecca Mowery and [Krish Dholakiya](http://krrishd.github.io).
